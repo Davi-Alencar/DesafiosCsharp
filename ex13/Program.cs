@@ -20,13 +20,20 @@ namespace ex13
             lado3 = int.Parse(Console.ReadLine());
 
             bool trianguloValido = false;
-            if(lado1 < (lado2 + lado3) ||)
+            if(lado1 < (lado2 + lado3) || lado2 < (lado1 + lado3) || lado3 < (lado1 + lado2) )
             {
                 trianguloValido = true;
             } else {
                 trianguloValido = false;
             }
             
+            if (trianguloValido == true) {
+                if (lado1 == lado2 && )
+
+
+            } else {
+                System.Console.WriteLine("Não é um triângulo válido");
+            }
 
         }
     }
