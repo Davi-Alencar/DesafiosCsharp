@@ -1,0 +1,11 @@
+C:\Users\45626490892\Documents\Desafio\ex4\bin\Debug\netcoreapp2.2\ex4.deps.json
+C:\Users\45626490892\Documents\Desafio\ex4\bin\Debug\netcoreapp2.2\ex4.runtimeconfig.json
+C:\Users\45626490892\Documents\Desafio\ex4\bin\Debug\netcoreapp2.2\ex4.runtimeconfig.dev.json
+C:\Users\45626490892\Documents\Desafio\ex4\bin\Debug\netcoreapp2.2\ex4.dll
+C:\Users\45626490892\Documents\Desafio\ex4\bin\Debug\netcoreapp2.2\ex4.pdb
+C:\Users\45626490892\Documents\Desafio\ex4\obj\Debug\netcoreapp2.2\ex4.csprojAssemblyReference.cache
+C:\Users\45626490892\Documents\Desafio\ex4\obj\Debug\netcoreapp2.2\ex4.csproj.CoreCompileInputs.cache
+C:\Users\45626490892\Documents\Desafio\ex4\obj\Debug\netcoreapp2.2\ex4.AssemblyInfoInputs.cache
+C:\Users\45626490892\Documents\Desafio\ex4\obj\Debug\netcoreapp2.2\ex4.AssemblyInfo.cs
+C:\Users\45626490892\Documents\Desafio\ex4\obj\Debug\netcoreapp2.2\ex4.dll
+C:\Users\45626490892\Documents\Desafio\ex4\obj\Debug\netcoreapp2.2\ex4.pdb
