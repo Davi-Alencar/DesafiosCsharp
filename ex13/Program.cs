@@ -28,7 +28,20 @@ namespace ex13
             }
             
             if (trianguloValido == true) {
-                if (lado1 == lado2 && )
+                if (lado1 == lado2 && lado1 == lado3 && lado2 == lado1 && lado2 == lado3 && lado3 == lado1 && lado3 == lado2)
+                {
+                    System.Console.WriteLine("Este é um triângulo equilátero (lados equivalentes");
+                }
+
+                if (lado1 != lado2 && lado1 != lado3 && lado2 != lado1 && lado2 != lado3 && lado3 != lado1 && lado3 != lado2)
+                {
+                    System.Console.WriteLine("Este é um triângulo escaleno (lados diferentes)");
+                }
+
+                if (lado1 == lado2 && lado1 != lado3 || lado1 != lado2 && lado1 == lado3 || lado2 == lado1 && lado2 != lado3 || lado2 != lado1 && lado2 == lado3 || lado3 == lado1 && lado3 != lado2 || lado3 != lado1 && lado3 == lado2)
+                {
+                    System.Console.WriteLine("Este é um triângulo isóceles (dois lados iguais)");
+                }
 
 
             } else {
