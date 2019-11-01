@@ -16,12 +16,12 @@ namespace ex18
                 Limite -= 1;
                 for(double i= 1 ; i <= Limite; i+=2)
                 {
-                    System.Console.Write(Convert.ToInt32(i) + ", ");
+                    System.Console.Write(Convert.ToInt32(i) + " ");
                 }
             } else {
                 for(double i= 1; i < Limite; i+=2)
                 {
-                    System.Console.Write(Convert.ToInt32(i) + ", ");
+                    System.Console.Write(Convert.ToInt32(i) + " ");
                 }
             }
         }
