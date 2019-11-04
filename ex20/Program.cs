@@ -12,6 +12,13 @@ namespace ex20
 
             System.Console.WriteLine();
             Console.Clear();
+            
+            if(Num % 2 && == 0)
+            {
+                
+            }
+
+
             for(int i = 0; i < 10; i++)
             {
                 Num = numAleatorio.Next(0, 100);
@@ -19,7 +26,6 @@ namespace ex20
                 System.Console.WriteLine($"Posição - {i}  Número aleatório: {Num}");
             }
 
-            if(Num %)
 
         }
     }
